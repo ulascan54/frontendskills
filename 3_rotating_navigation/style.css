@@ -13,21 +13,32 @@ body{
 .container{
     background-color: #fafafa;
     transform-origin: top left;
-    transition:transform 0.5s linear;
+    transition:all 0.5s linear;
     width: 100vw;
     min-height: 100vh;
     padding: 50px;
 }
 
+.container img{
+    height: 300px;
+    object-fit: cover;
+    object-position: center center;
+    width: 100%;
+}
+
 .container.show-nav{
     transform: rotate(-20deg);
+    overflow: hidden;
+    max-height: 100vh;
 }
 
 .circle-container{
-    position: fixed;
+    position:fixed;
     top:-100px;
     left:-100px;
+    overflow: hidden;
 }
+
 
 .circle{
     background-color:#ff7979;
@@ -35,8 +46,14 @@ body{
     width: 200px;
     border-radius: 50%;
     position: relative;
-    transition: transform 0.5s linear;
+    transition: all 0.5s linear;
+    transition-delay: 0.5s;
 }
+
+.container.show-nav .circle{
+    transform: rotate(-70deg);
+}
+
 .circle button{
     position: absolute;
     top: 50%;
@@ -83,7 +100,7 @@ nav ul li{
     color: #fff;
     margin: 40px 0;
     transform: translateX(-100%);
-    transition: transfrom 0.4s ease-in;
+    transition: transform 0.4s ease-in;
 }
 
 nav ul li i{
