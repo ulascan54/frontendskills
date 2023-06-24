@@ -9,3 +9,4 @@
 | Blurry Loading       | [Live](https://ulascan54.github.io/frontendskills/5_blurry_loading/)       | [Code](https://github.com/ulascan54/frontendskills/tree/main/5_blurry_loading)       |
 | Scroll Animation     | [Live](https://ulascan54.github.io/frontendskills/6_scroll_animation/)     | [Code](https://github.com/ulascan54/frontendskills/tree/main/6_scroll_animation)     |
 | Split Landing Page   | [Live](https://ulascan54.github.io/frontendskills/7_split_landing_page/)   | [Code](https://github.com/ulascan54/frontendskills/tree/main/7_split_landing_page)   |
+| Form Wave Animation  | [Live](https://ulascan54.github.io/frontendskills/8_form_wave_animation/)  | [Code](https://github.com/ulascan54/frontendskills/tree/main/8_form_wave_animation)  |
