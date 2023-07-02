@@ -11,4 +11,5 @@
 | Split Landing Page   | [Live](https://ulascan54.github.io/frontendskills/7_split_landing_page/)   | [Code](https://github.com/ulascan54/frontendskills/tree/main/7_split_landing_page)   |
 | Form Wave Animation  | [Live](https://ulascan54.github.io/frontendskills/8_form_wave_animation/)  | [Code](https://github.com/ulascan54/frontendskills/tree/main/8_form_wave_animation)  |
 | Sound Board          | [Live](https://ulascan54.github.io/frontendskills/9_sound_board/)          | [Code](https://github.com/ulascan54/frontendskills/tree/main/9_sound_board)          |
-| Dad Jokes            | [Live](https://ulascan54.github.io/frontendskills10_dad_jokes/)            | [Code](https://github.com/ulascan54/frontendskills/tree/main10_dad_jokes)            |
+| Dad Jokes            | [Live](https://ulascan54.github.io/frontendskills/10_dad_jokes/)           | [Code](https://github.com/ulascan54/frontendskills/tree/main/10_dad_jokes)           |
+| Event KeyCodes       | [Live](https://ulascan54.github.io/frontendskills/11_event_keycodes/)      | [Code](https://github.com/ulascan54/frontendskills/tree/main/11_event_keycodes)      |
